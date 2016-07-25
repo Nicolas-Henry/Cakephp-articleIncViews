@@ -9,6 +9,11 @@ NB:
 - The "views" field can be changed if you have another namespace in your database.
 - It can be used on any table with integer field named "views".
 
+Compatibility
+---
+
+Cakephp 2.8
+
 Version
 ----
 
